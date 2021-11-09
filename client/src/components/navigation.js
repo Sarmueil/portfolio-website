@@ -15,7 +15,7 @@ const Navigation = () => {
             <div className='nav-label'>Menu</div>
             <ul className='nav-links'>
               <li>
-                <NavLink to='/case-studies' exact>
+                <NavLink to='/about-us' exact>
                   About
                 </NavLink>
               </li>
@@ -25,13 +25,13 @@ const Navigation = () => {
                 </NavLink>
               </li> */}
               <li>
-                <NavLink to='/services' exact>
-                  Services
+                <NavLink to='/services' exact>   
+                 Experience
                 </NavLink>
               </li>
               <li>
-                <NavLink to='/about-us' exact>
-                 Blog
+                <NavLink to='/approach' exact>
+                Skills
                 </NavLink>
               </li>
             </ul>
@@ -43,7 +43,7 @@ const Navigation = () => {
               <ul className='nav-info'>
                 <li className='nav-info-label'>Get in Touch</li>
                 <li>
-                  <NavLink to='/contact' exact>
+                  <NavLink to='/case-studies' exact>
                    Hire Me
                   </NavLink>
                 </li>

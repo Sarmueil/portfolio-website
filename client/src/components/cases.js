@@ -12,7 +12,7 @@ const caseStudies = [
   {
     id: 2,
     subtitle: "Snipe Stores",
-    title: "An Ecommerce Plaftorm to show footware brands",
+    title: "An Ecommerce Plaftorm to for footwear brands",
     img: "/images/snipe.png"
   },
   {
@@ -24,7 +24,7 @@ const caseStudies = [
 ];
 
 const Cases = () => {
-  return (
+  return (  
     <section className='cases'>
       <div className='container-fluid'>
         <div className='cases-navigation'>
