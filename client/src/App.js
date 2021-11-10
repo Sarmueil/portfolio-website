@@ -10,12 +10,18 @@ import Approach from "./pages/approach";
 import Services from "./pages/services";
 import About from "./pages/about";
 import Home from "./pages/home";
+import Decamovies from "./pages/Decamovies"
+import Snipestores from "./pages/Snipestores";
+import Projects from "./pages/Projects"
 
 const routes = [
   { path: "/", name: "Home", Component: Home },
   { path: "/case-studies", name: "caseStudies", Component: CaseStudies },
   { path: "/approach", name: "approach", Component: Approach },
   { path: "/services", name: "services", Component: Services },
+  { path: "/decamovies", name: "decamovies", Component: Decamovies},
+  { path: "/snipestores", name: "snipestores", Component: Snipestores},
+  { path: "/projects", name: "projects", Component: Projects},
   { path: "/about-us", name: "about", Component: About }
 ];
 
