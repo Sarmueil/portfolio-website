@@ -5,7 +5,7 @@ import './styles/App.css'
 import Header from "./components/header";
 import Navigation from "./components/navigation";
 
-import CaseStudies from "./pages/caseStudies";
+import Contact from "./pages/Contact";
 import Approach from "./pages/approach";
 import Services from "./pages/services";
 import About from "./pages/about";
@@ -16,7 +16,7 @@ import Projects from "./pages/Projects"
 
 const routes = [
   { path: "/", name: "Home", Component: Home },
-  { path: "/case-studies", name: "caseStudies", Component: CaseStudies },
+  { path: "/contact", name: "contact", Component:Contact },
   { path: "/approach", name: "approach", Component: Approach },
   { path: "/services", name: "services", Component: Services },
   { path: "/decamovies", name: "decamovies", Component: Decamovies},

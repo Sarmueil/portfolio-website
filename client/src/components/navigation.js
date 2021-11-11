@@ -43,7 +43,7 @@ const Navigation = () => {
               <ul className='nav-info'>
                 <li className='nav-info-label'>Get in Touch</li>
                 <li>
-                  <NavLink to='/case-studies' exact>
+                  <NavLink to='/contact' exact>
                    Hire Me
                   </NavLink>
                 </li>
