@@ -48,15 +48,12 @@ const Navigation = () => {
                   </NavLink>
                 </li>
                 <li>
-                  {/* <NavLink to='/audit' exact>
-                    Get a free audit
-                  </NavLink> */}
                    <div className="icons">
-                   <GitHubIcon className="icons_a"/>
-                   <LinkedInIcon className="icons_a"/>
-                   <InstagramIcon className="icons_a"/>
-                   <EmailIcon className="icons_a"/>
-                   <TwitterIcon className="icons_a"/>
+                     <a href="https://github.com/Sarmueil"><GitHubIcon className="icons_a"/></a>
+                   <a href="https://www.linkedin.com/in/adebisi-samuel-b8a72b191/"><LinkedInIcon className="icons_a"/></a>
+                   <a href="https://www.instagram.com/sarmuiel/"><InstagramIcon className="icons_a"/></a>
+                   <NavLink to='/contact' exact><EmailIcon className="icons_a"/></NavLink>
+                   <a href="https://www.instagram.com/sarmuiel/"><TwitterIcon className="icons_a"/></a>
                  </div>
                  <div>
 
