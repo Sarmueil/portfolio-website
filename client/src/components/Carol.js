@@ -7,14 +7,14 @@ const Carol = ({ projectImg }) => {
     return (
         <div className="p">
         <div className="pbrowser">
-        <a href='#' target="_blank" rel="noreferrer">
+        <a href={projectImg.gitHub} target="_blank" rel="noreferrer">
           <GitHubIcon style={{color:'black', fontSize:'1rem', cursor:'pointer'}} className="pcircle"/>
           </a>
-          <a href='#' rel="noreferrer">
+          <a href={projectImg.live}   target="_blank" rel="noreferrer">
           <WebIcon style={{color:'black', fontSize:'1rem', cursor:'pointer'}} className="pcircle"/>
           </a>
         </div>   
-            <a href='#' target="_blank" rel="noreferrer">
+            <a href={projectImg.live} target="_blank" rel="noreferrer">
               <img src={projectImg.image} alt="" className="pimg"/>
             </a>
       </div>

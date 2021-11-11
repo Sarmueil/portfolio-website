@@ -63,17 +63,9 @@ const Navigation = () => {
               <ul className='nav-info'>
                 <li className='nav-info-label'>Based in</li>
                 <li>Asajon way, sangotedo</li>
-                <li>Lagos State</li>
-                {/* <li>Switzerland</li> */}
+                <li>Lagos State,</li>
+                <li>Nigeria</li>
               </ul>
-              {/* <ul className='nav-info'>
-                <li className='nav-info-label'>Phone</li>
-                <li>+41 (0) 79 510 28 70</li>
-              </ul> */}
-              {/* <ul className='nav-info'>
-                <li className='nav-info-label'>Legal</li>
-                <li>Privacy & Cookies</li>
-              </ul> */}
             </div>
           </div>
         </div>

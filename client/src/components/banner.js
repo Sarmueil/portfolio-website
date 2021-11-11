@@ -8,7 +8,7 @@ const Banner = () => {
         <div className='row'>  
           <h2>
           <div className='line'>  
-            <span style={{fontSize:'2rem'}}>Samuel Adedoyin Adebisi</span>
+            <span style={{fontSize:'2rem'}}>Samuel Adedoyin Adebisi</span>  
           </div>
             <div className='line'>
               <span>Building Full-stack Web And Mobile Applications is</span>
@@ -18,7 +18,7 @@ const Banner = () => {
             </div>
           </h2>
           <div className='btn-row'>
-            <a href='/'>
+            <a href='https://drive.google.com/file/d/18GPWKYyVfke0PCekaofBMzN8SYsUuc3A/view?usp=sharing' target="_blank">
               See my Resume <RightArrow />
             </a>
           </div>  

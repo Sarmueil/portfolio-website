@@ -30,7 +30,7 @@ const About = () => {
                     Fueled by high energy levels and boundless enthusiasm, I’m easily inspired and more then willing to follow my fascinations wherever they take me. I’m passionate, expressive, multi-talented
                 spirit with a natural ability to entertain and inspire. I’m never satisfied to just come up with ideas. Instead I have an almost impulsive need to act on them.
                     </p>
-                   <h3 className="textc">Resume</h3>
+                   <a href="https://drive.google.com/file/d/18GPWKYyVfke0PCekaofBMzN8SYsUuc3A/view?usp=sharing" target="_blank"><h3 className="textc">Resume</h3></a>
               </div>
             </div>
         </div>

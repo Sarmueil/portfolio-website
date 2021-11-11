@@ -49,7 +49,7 @@ const Contact = () => {
             <div className="c-info-item">
               <img className="c-icon" src="/images/address.png" alt="" />
               Asajon way, sangotedo, Lagos State
-            </div>
+            </div>  
           </div>
         </div>
         <div className="c-right">
