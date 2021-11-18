@@ -11,10 +11,10 @@ const Banner = () => {
             <span style={{fontSize:'2rem'}}>Samuel Adedoyin Adebisi</span>  
           </div>
             <div className='line'>
-              <span>Building Full-stack Web And Mobile Applications is</span>
+              <span>Building Full-stack Web And Mobile Applications</span>
             </div>
             <div className='line'>
-              <span>what I do.</span>
+              <span>is what I do.</span>
             </div>
           </h2>
           <div className='btn-row'>

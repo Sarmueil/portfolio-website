@@ -12,6 +12,7 @@ import About from "./pages/about";
 import Home from "./pages/home";
 import Decamovies from "./pages/Decamovies"
 import Snipestores from "./pages/Snipestores";
+import Retina from "./pages/Retina";
 import Projects from "./pages/Projects"
 
 const routes = [
@@ -21,6 +22,7 @@ const routes = [
   { path: "/services", name: "services", Component: Services },
   { path: "/decamovies", name: "decamovies", Component: Decamovies},
   { path: "/snipestores", name: "snipestores", Component: Snipestores},
+  { path: "/retina", name: "retina", Component: Retina},
   { path: "/projects", name: "projects", Component: Projects},
   { path: "/about-us", name: "about", Component: About }
 ];

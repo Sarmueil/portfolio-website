@@ -49,11 +49,11 @@ const Navigation = () => {
                 </li>
                 <li>
                    <div className="icons">
-                     <a href="https://github.com/Sarmueil"><GitHubIcon className="icons_a"/></a>
-                   <a href="https://www.linkedin.com/in/adebisi-samuel-b8a72b191/"><LinkedInIcon className="icons_a"/></a>
-                   <a href="https://www.instagram.com/sarmuiel/"><InstagramIcon className="icons_a"/></a>
+                     <a href="https://github.com/Sarmueil" target="_blank" rel="noreferrer"><GitHubIcon className="icons_a"/></a>
+                   <a href="https://www.linkedin.com/in/adebisi-samuel-b8a72b191/" target="_blank" rel="noreferrer"><LinkedInIcon className="icons_a"/></a>
+                   <a href="https://www.instagram.com/sarmuiel/" target="_blank" rel="noreferrer"><InstagramIcon className="icons_a"/></a>
                    <NavLink to='/contact' exact><EmailIcon className="icons_a"/></NavLink>
-                   <a href="https://www.instagram.com/sarmuiel/"><TwitterIcon className="icons_a"/></a>
+                   <a href="https://www.instagram.com/sarmuiel/" target="_blank" rel="noreferrer"><TwitterIcon className="icons_a"/></a>
                  </div>
                  <div>
 

@@ -23,10 +23,10 @@ const caseStudies = [
   },
   {
     id: 3,
-    subtitle: "Lumin",
-    title: "For your best look ever",
-    img: "/images/lumin-min.png",
-    link:'/snipestores'
+    subtitle: "Retina",
+    title: "Geo location based Image sharing Web app",
+    img: "/images/retina.png",
+    link:'/retina'
   }
 ];
 
