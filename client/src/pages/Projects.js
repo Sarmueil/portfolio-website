@@ -21,18 +21,8 @@ const projectImg = [
     live:'https://decamoviesnet.netlify.app/'
   },
   {
-    image: '/images/snipeL.png',
-    gitHub:'https://github.com/Sarmueil/snipe-ecommerce',
-    live:'https://decamoviesnet.netlify.app/'
-  },
-  {
-    image:'/images/decamoviesL.png',
-    gitHub:'https://github.com/Sarmueil/DecaMovieWebApp',
-    live:'https://decamoviesnet.netlify.app/'
-  },
-  {
-    image: '/images/snipeL.png',
-    gitHub:'https://github.com/Sarmueil/snipe-ecommerce',
+    image: '/images/retinaL.png',
+    gitHub:'https://github.com/Sarmueil/Retina',
     live:'https://decamoviesnet.netlify.app/'
   },
 ]
