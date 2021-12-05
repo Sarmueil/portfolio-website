@@ -23,10 +23,18 @@ const Header = ({ history, dimensions }) => {
   return (
     <div className='header'>
       <div className='container'>
-        <div className='row v-center space-between'>
-          <div className='logo'>
+       {/* change to flex-end from space-between */}
+        <div className='row v-center space-between' style={{justifyContent:'flex-end'}}>
+          {/* <div className='logo'>
             <NavLink to='/' exact>
-               <img src='/images/logo.png' alt='logo' />
+               <img src='/images/logoicon.png' alt='logo' />
+            </NavLink>
+          </div> */}
+
+          <div style={{display:'flex', alignItems:'center'}}>
+          <div className='logo' style={{marginRight:'1.3rem'}}>
+            <NavLink to='/' exact>
+               <img src='/images/homeicon.png' alt='logo' />
             </NavLink>
           </div>
           <div className='nav-toggle'>
@@ -41,6 +49,7 @@ const Header = ({ history, dimensions }) => {
               onClick={() => setMenuState({ menuOpened: false })}>
               <UpArrow />
             </div>
+          </div>
           </div>
         </div>
       </div>

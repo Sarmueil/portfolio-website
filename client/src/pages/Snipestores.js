@@ -23,7 +23,7 @@ const Snipestores = () => {
                            <p style={{color:'white',fontSize:'1rem'}}>React.js, MongoDB, Node.JS, Express.js, CSS frameworks - Styled-components, Material-UI Icons</p>
                     <div className="icons">
                      <a href="https://github.com/Sarmueil/snipe-ecommerce"  target="_blank"><GitHubIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
-                   <a href="https://decamoviesnet.netlify.app/"  target="_blank"><WebIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
+                   <a href="https://snipe-stores.netlify.app/"  target="_blank"><WebIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
                  </div>
 
                       </div>

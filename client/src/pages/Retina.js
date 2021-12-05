@@ -21,7 +21,7 @@ const Retina = () => {
                            <p style={{color:'white',fontSize:'1rem'}}>React.js, MongoDB, Node.JS, Express.js, CSS frameworks - Tailwind CSS, Material-UI Icons, Other Tools, React map GL, Mapbox API</p>
                     <div className="icons">
                      <a href="https://github.com/Sarmueil/Retina"  target="_blank"><GitHubIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
-                   <a href="https://decamoviesnet.netlify.app/"  target="_blank"><WebIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
+                   <a href="#"  target="_blank"><WebIcon className="icons_a" style={{color:'white', fontSize:'2.5rem'}}/></a>
                  </div>
 
                       </div>

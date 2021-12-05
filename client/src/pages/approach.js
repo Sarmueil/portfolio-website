@@ -12,7 +12,7 @@ const Approach = () => {
               <h3>CSS3</h3>
               <p><span style={{fontSize:'1.5rem'}}>Frameworks</span> - SASS(CSS-preprocessor) Bootstrap Material UI Chakra UI Tailwind CSS</p>
               <h3>JAVASCRIPT</h3>
-              <p><span style={{fontSize:'1.5rem'}}>Frameworks</span> - React.js Redux Next.js Node.js Express.js Styled-components</p>
+              <p><span style={{fontSize:'1.5rem'}}>Frameworks</span> - React.js React Native, Redux Next.js Node.js Express.js Styled-components</p>
               <h3>TYPESCRIPT</h3>
               <h3>DATABASE MANAGMENT</h3>
               <p>MONGODB Postgres</p>
